@@ -1,4 +1,4 @@
-# TAILORSOFT-BBDNITM
+# E-COMMERCE
 #It is basically a platform from where we can buy products and sell products.
 #Name and mail id of team members are:- 1) Nivedita Singh (singhnivedita1920@gmail.com) 2) Prakanshu Mishra(prakanshumishra184@gmail.com)
 #Technologies Used Are Python,Django,Bootstrap,Html,CSS. 
